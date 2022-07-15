@@ -4,5 +4,5 @@ In this repository, I collect TestStand-based solutions to various problems. The
 - **Output to Stream** - A sequence demonstrating the use of streams for create output logs.
 <p align = "center">
 <img src = "https://github.com/425J/TestStandMiscellaneous/blob/main/Output%20to%20Stream/img/Output%20to%20Stream%20Demo.png?raw=true"></br>
-<i>Output Logs</i>
+<i>Output to Stream</i>
 </p>
